@@ -13,6 +13,14 @@
 <img src="https://img.shields.io/badge/BOOTSTRAP-red?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white" />
 
+<h2>#Redes Socias</h2>
+<hr />
+
+<img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=FACEBOOK&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=INSTAGRAM&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=LINKEDIN&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=YOUTUBE&logoColor=white" />
+
 <!--
 **SanchoGitHub/SanchoGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
