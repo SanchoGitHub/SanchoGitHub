@@ -4,7 +4,8 @@
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Renato+Sancho;Sou+Mecatrônico+Industrial,+Automação+Industrial,+Robótica+Industrial+!&center=true&width=780&height=45">
   </a>
 </p>
-
+</p>
+Tecnologias
 <hr />
 
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white" />
