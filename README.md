@@ -1,7 +1,7 @@
 <h1 align="center">Seja Bem vindo</h1>
 <p align="center">
   <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Renato+SAncho;Sou+Mecatrônico Industrial,+Automação Industrial,+Robótica Industrial+!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Renato+SAncho;Sou+Mecatrônico+Industrial,+Automação+Industrial,+Robótica+Industrial+!&center=true&width=780&height=45">
   </a>
 </p>
 
