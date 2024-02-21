@@ -5,7 +5,7 @@
   </a>
 </p>
 </p>
-<h2>Tecnologias</h2>
+<h2>#Tecnologias</h2>
 <hr />
 
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white" />
