@@ -1,5 +1,11 @@
 <h1 align="center">Seja Bem vindo</h1>
-<marquee>Sancho Desenvolvedor</marquee>
+<p align="center">
+  <a href="https://github.com/wagnerlimanet">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+  </a>
+</p>
+
+<hr />
 
 <!--
 **SanchoGitHub/SanchoGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
